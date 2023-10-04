@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(166, 225, 241);
+  justify-content: center;
+  display: flex;
+}
+
+.grid {
+  width: 400px;
+  height: 300px;
+  border: solid black 1px;
+  position: absolute;
+  top: 200px;
+}
